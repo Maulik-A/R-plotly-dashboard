@@ -1,2 +1,2 @@
-# PAC_plotly
-PAC dashboard with the Plotly charts
+# R Plotly dashboard
+Sports data analysis and dashboard using Plotly library for data visualisation.
